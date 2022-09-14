@@ -83,7 +83,7 @@ nav img{
     background: #04dd1a;
     transition: 1s;
 }
-@media(max-width:700px)
+/*@media(max-width:700px)
 {
     .text-box h1{
         font-size: 20px;
@@ -101,7 +101,8 @@ nav img{
         z-index: 2;
         text-align: left;
     }
-}
+}*/
+
 /*---------  course  ------------*/
 .course{
     width: 80%;
